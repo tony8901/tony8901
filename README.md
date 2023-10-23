@@ -1,4 +1,4 @@
-# ¡Hola! Soy Tony Garc&eacute;s 👋
+# ¡Hola! 👋
 
 Soy un **Desarrollador de Software en Java** y **Administrador de Servidores basados en GNU/Linux** con un fuerte interés en las tecnologías basadas en **Java Spring Boot**.
 

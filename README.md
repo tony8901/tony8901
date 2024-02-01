@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy un **Desarrollador de Software basados en Java - Spring Boot y Python - Django** así como **Administrador de Servidores basados en GNU/Linux** con un fuerte interés en las nuevas tecnologías y el aprendizaje continuo.
+Soy un **Desarrollador de Software basados en Java/Spring Boot y Python/Django** así como **Administrador de Servidores basados en GNU/Linux** con un fuerte interés en las nuevas tecnologías y el aprendizaje continuo.
 
 ## Acerca de mí 🚀
 

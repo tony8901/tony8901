@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy un **Desarrollador de Software basados en Java/Spring Boot y Python/Django** así como **Administrador de Servidores basados en GNU/Linux** con un fuerte interés en las nuevas tecnologías y el aprendizaje continuo.
+Soy un **Desarrollador de Aplicaciones basadas en Java/Spring Boot y Python/Django** con un fuerte interés en las nuevas tecnologías y el aprendizaje continuo.
 
 ## Acerca de mí 🚀
 
@@ -16,10 +16,10 @@ Soy un apasionado desarrollador con experiencia en la construcción de aplicacio
 
 ## Habilidades técnicas ⚙️
 
-- Lenguajes de programación: ![Java](https://img.shields.io/badge/Java-139BB4?logo=openjdk&logoColor=black&labelColor=white)
-- Frameworks: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?logo=springboot&labelColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-white?logo=hibernate&labelColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-black?logo=apachekafka&logoColor=231F20&labelColor=white)
-- Bases de datos: ![MySQL](https://img.shields.io/badge/MySQL-139BB4?logo=mysql&logoColor=4479A1&labelColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-139BB4?logo=postgresql&logoColor=4479A1&labelColor=white)
-- Herramientas: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-892CA0?logo=intellijidea&logoColor=black&labelColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=FF6C37&labelColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=181717&labelColor=white)
+- Lenguajes de programación: ![Java](https://img.shields.io/badge/Java-139BB4?logo=openjdk&logoColor=black&labelColor=white) ![Python](https://img.shields.io/badge/Python-yellow?logo=python&labelColor=white)
+- Frameworks: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?logo=springboot&labelColor=white) ![Django](https://img.shields.io/badge/Django-139BB4?logo=django&logoColor=4479A1&labelColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-white?logo=hibernate&labelColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-black?logo=apachekafka&logoColor=231F20&labelColor=white) 
+- Bases de datos: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-139BB4?logo=postgresql&logoColor=4479A1&labelColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-139BB4?logo=mariadb&logoColor=4479A1&labelColor=white) ![MySQL](https://img.shields.io/badge/MySQL-139BB4?logo=mysql&logoColor=4479A1&labelColor=white)  
+- Herramientas: ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-892CA0?logo=intellijidea&logoColor=black&labelColor=white) ![VSCode](https://img.shields.io/badge/VSCode-139BB4?logo=visualstudiocode&logoColor=139BB4&labelColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=FF6C37&labelColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=181717&labelColor=white) 
 
 ## Algunas estadísticas 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony8901&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

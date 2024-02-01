@@ -1,10 +1,10 @@
 # ¡Hola! 👋
 
-Soy un **Desarrollador de Software en Java** y **Administrador de Servidores basados en GNU/Linux** con un fuerte interés en las tecnologías basadas en **Java Spring Boot**.
+Soy un **Desarrollador de Software basados en Java - Spring Boot y Python - Django** así como **Administrador de Servidores basados en GNU/Linux** con un fuerte interés en las nuevas tecnologías y el aprendizaje continuo.
 
 ## Acerca de mí 🚀
 
-Soy un apasionado desarrollador de Java con experiencia en la construcción de aplicaciones de alto rendimiento y baja latencia. Me encanta aprender nuevas tecnologías y frameworks y estoy siempre buscando nuevas oportunidades para crecer profesionalmente.
+Soy un apasionado desarrollador con experiencia en la construcción de aplicaciones de alto rendimiento y baja latencia. Me encanta aprender nuevas tecnologías y frameworks y estoy siempre buscando nuevas oportunidades para crecer profesionalmente.
 
 ## Conéctate conmigo 🌐
 
